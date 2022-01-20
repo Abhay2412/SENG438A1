@@ -7,9 +7,8 @@
 | Student Names:  |   |
 | Rachel Renegado |   |
 | Lauraine Baffot |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Abhay Khosla    |   |
+| Alexis Hamrak   |   |
 
 **Table of Contents**
 
