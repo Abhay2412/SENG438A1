@@ -6,6 +6,7 @@
 |-----------------|---|
 | Student Names:  |   |
 | Rachel Renegado |   |
+| Lauraine Baffot |   |
 |                 |   |
 |                 |   |
 
