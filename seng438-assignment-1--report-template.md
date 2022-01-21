@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#22:     |   |
+| Group \#: 22    |   |
 |-----------------|---|
 | Student Names:  |   |
 | Rachel Renegado |   |
