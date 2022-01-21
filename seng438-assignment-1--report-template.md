@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#22:     |   |
 |-----------------|---|
 | Student Names:  |   |
 | Rachel Renegado |   |
@@ -41,7 +41,6 @@ In this lab, we had the opportunity to apply our developed testing knowledge to 
 We are planning to execute tests with many of the user features, as we want to simulate how a random user could possibly interact with the ATM. We will not be conducting these tests in any particular order, as we want to keep them as random as possible. We would like to ensure that the balance always remains correct when money is deposited or withdrawn. When conducting these tests, we will be testing that the two given accounts and pin numbers work and that they both have access to the correct accounts. We will test each account with both a correct and incorrect pin number to see how the system performs. We would also like to test what will happen if there are multiple incorrect entries of a pin number, and these pin numbers will be generated on the spot for testing this functionality. In terms of the monetary amounts we will test, we would like to test a variety of values to be deposited and withdrawn. If we find a bug, we will discontinue testing on the feature, as the amount will most likely be consistently incorrect. 
 
 **Testing Pair #2: Lauraine and Rachel’s Plan:**
-
 Our exploratory plan includes testing against the services the ATM must be able to provide to the customer outlined in Appendix B.1. The key features outlined are:
 A customer must be able to make a cash withdrawal from any suitable account linked to the card, in multiples of $20.00. Approval must be obtained from the bank before cash is dispensed.
 A customer must be able to make a deposit to any account linked to the card, consisting of cash and/or checks in an envelope. The customer will enter the amount of the deposit into the ATM, subject to manual verification when the envelope is removed from the machine by an operator. Approval must be obtained from the bank before physically accepting the envelope. 
@@ -74,7 +73,7 @@ When we reviewed the other partnership’s defect report, we found many similari
 
 # How the pair testing was managed and team work/effort was divided 
 
-We used Discord to communicate for Assignment 1. Since the class list is fluctuating, groups were not given official group numbers. We didn’t know our group numbers before joining the lab session at 11 AM on January 20th - hence *the group document with our names was submitted with an unofficial number of our choosing (group 22)*. 
+We used Discord to communicate for Assignment 1. Since the class list is fluctuating, groups were not given official group numbers. We didn’t know our group numbers before joining the lab session at 11 AM on January 20th - hence **the group document with our names was submitted with an unofficial number of our choosing (group 22)**. 
 
 We proceeded to all work in pairs for the Exploratory testing with the team divided into two pairs: 
 - Pair 1 with Alexis and Abhay
