@@ -78,6 +78,7 @@ We used Discord to communicate for Assignment 1. Since the class list is fluctua
 We proceeded to all work in pairs for the Exploratory testing with the team divided into two pairs: 
 - Pair 1 with Alexis and Abhay
 - Pair 2 with Rachel and Lauraine
+
 The work divided in the first testing was with Partner 1 (the Tester) sharing their screen with the version 1.0 of the ATM project and Partner 2 (the Developer) was creating the issues in the Backlog system with the correct information being reported (also screen sharing with Partner 1). 
 
 With the rest of the testing, we regrouped and split up our defects numerically and divided them equally to each other to check if the issue still persisted in the Regression testing or not using the Manual function testing (which each group member as a whole do 10 tests equally). The effort for the report was also a combination of our time with each member picking up the part in writing this document completely. 
