@@ -15,7 +15,7 @@
 (When you finish writing, update the following list using right click, then
 “Update Field”)
 
-[1 Introduction	1](#Introduction)
+[1 Introduction	1](#_Toc439194677)
 
 [2 High-level description of the exploratory testing plan	1](#_Toc439194678)
 
@@ -76,7 +76,7 @@ When we reviewed the other partnership’s defect report, we found many similari
 
 
 # How the pair testing was managed and team work/effort was divided 
-Our team used Discord to communicate for Assignment 1. Since the class list is fluctuating, groups were not given official group numbers. We weren’t assigned a group number before joining the lab session at 11 AM on January 20th - hence *the group document with our names was submitted with an unofficial number of our choosing (group 22)*. 
+Our team used Discord to communicate for Assignment 1. At the time of creating our backlog account, groups were not given official group numbers due to the fluctuating class list. We weren’t assigned a group number before joining the lab session at 11 AM on January 20th - hence *the SpaceID is sengroup22 with an unofficial number of our choosing (group 22) and slightly different format to “senggroup22”*. 
 
 We proceeded to work in pairs for the Exploratory testing with the team divided into two pairs: 
 - Pair 1 with Alexis and Abhay
