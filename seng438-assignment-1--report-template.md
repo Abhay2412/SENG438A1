@@ -81,6 +81,7 @@ Our team used Discord to communicate for Assignment 1. Since the class list is f
 We proceeded to work in pairs for the Exploratory testing with the team divided into two pairs: 
 - Pair 1 with Alexis and Abhay
 - Pair 2 with Rachel and Lauraine
+
 The work divided in the first testing was with Partner 1 (the Tester) sharing their screen with version 1.0 of the ATM project and Partner 2 (the Developer) was creating the issues in the Backlog system with the correct information being reported (also screen sharing with Partner 1). 
 
 For the manual scripted testing, we regrouped and split up the defects numerically and divided them equally. Each of us recorded any bugs we found in Backlog and assigned them a version number of 1.0 since this is the software we were testing on. When the time came to do the regression testing on version 1.1, we each checked the same 10 cases we explored from the manual scripted testing to see if the issue still persisted or not. If the issue was cleared or continued to persist, the tester would mark it accordingly. If the issue was new, the tester would add it into Backlog with the version 1.1 label. Anyone who finished their test cases early would help the others finish their last test. Once the tests were all written into Backlog, we all reviewed them to ensure consistency among the descriptions. The effort for the report was also a combination of our time with each member picking up multiple sections to write this document completely. 
